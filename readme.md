@@ -9,6 +9,7 @@ Además, se realizará una segunda fase que consistirá en hacer uso de herramie
 Se puede acceder a la página web de *GitHub Pages* alojada en el siguiente enlace:
 
 - [http://alu0100699494.github.io/pl-prct01/](http://alu0100699494.github.io/pl-prct01/)
+- [http://alu0100699494.github.io/pl-prct01/tests/](http://alu0100699494.github.io/pl-prct01/tests/)
 
 ## 3. Autores ##
 Este proyecto ha sido desarrollado, en conjunto, por:
